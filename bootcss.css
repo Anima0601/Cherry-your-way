@@ -1,0 +1,212 @@
+body{
+    width:1550.5px;
+}
+.design-bg{
+    height:680px;
+    width:1550.5px;
+    background-image:url(bgphoto.jpg);
+    background-size:1550.5px 680px;
+    background-repeat: no-repeat;
+    position:relative;
+    top:60px;
+}
+.buttonstyle{
+    margin-left: 40px;
+    
+}
+#c{
+    position: relative;
+    top:250px;
+    left:580px;
+    font-size: 225%;
+    font-family: bold cursive;
+    font-weight: 400;
+    color:white;
+    font-style:italic;
+}
+#he{
+    margin-left: 700px;
+    color: white;
+}
+h2{
+    margin-left:750px;
+    color: darkgray;
+}
+.rom{
+    height:680px;
+    width:1550.5px;
+}
+#ro{
+    font-family: 'Tangerine', serif;
+    font-style: italic;
+  font-size: 40px;
+  color: palevioletred;
+  position: relative;
+  bottom:10px;
+  left:40px;
+}
+#pinkd{
+    border-radius: 50%;
+    height:45%;
+    margin-top:3%;
+    margin-left:5%;
+}
+#pinkh{
+    border-radius: 50%;
+    height:45%;
+    margin-top:3%;
+    margin-left:15%;
+    margin-right:0;
+}
+#pinkj{
+    border-radius: 50%;
+    height:45%;
+    margin-top:3%;
+    margin-left:13%;
+    margin-right:0;
+}
+.pinkdd{
+    width:25%;
+    color: black;
+    margin-left:2%;
+    margin-top:2%;
+    padding:20px;
+    border:solid;
+    border-color: palevioletred;
+    border-radius: 10px;
+    margin-right:0;
+}
+.pinkhd{
+    width:25%;
+    height: 28%;
+    color: black;
+    position: relative;
+    left:36.5%;
+    bottom:190px;
+    padding:20px;
+    padding-top: 30px;
+    border:solid;
+    border-color: palevioletred;
+    border-radius: 10px;
+    margin-right:0;
+}
+.pinkjd{
+    width:25%;
+    height: 28%;
+    color: black;
+    position: relative;
+    left:70.5%;
+    bottom:380px;
+    padding:20px;
+    padding-top: 30px;
+    border:solid;
+    border-color: palevioletred;
+    border-radius: 10px;
+    margin-right:0;
+}
+
+.boho{
+    height:680px;
+    width:1550.5px;
+    background-color: F2DF3A;
+}
+#bo{
+    font-family:'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+    font-style:normal;
+  font-size: 40px;
+  color: 61481C;
+  position: relative;
+  bottom:0px;
+  left:40px;
+  text-decoration-line: underline;
+
+}
+#bohod{
+    border-radius: 50%;
+    height:45%;
+    margin-top:3%;
+    margin-left:5%; 
+    
+}
+#bohos{
+    border-radius: 50%;
+    height:45%;
+    margin-top:3%;
+    margin-left:15%;
+}
+#bohoj{
+    border-radius: 50%;
+    height:45%;
+    margin-top:3%;
+    margin-left:13%;
+}
+.bohodetails{
+    width:68%;
+    color:white;
+    background-color: 61481C;
+    position: relative;
+    left:16%;
+    top:60px;
+    padding:20px;
+    padding-top: 30px;
+    border:solid;
+    border-color: white;
+    border-radius: 10px;
+    font-family: Georgia, serif;
+    font-style: italic;
+
+    
+}
+.trend{
+    height:680px;
+    width:1550.5px;
+    background-color:D9F8C4;
+}
+#tre{
+    font-family:Snell Roundhand, cursive;
+    font-style:italic;
+  font-size: 40px;
+  color: 9C9EFE;
+  position: relative;
+  top:30px;
+  left:40px;
+}
+#trendyd{
+    border-radius: 50%;
+    height:45%;
+    margin-top:4%;
+    margin-left:5%; 
+    
+}
+#trendys{
+    border-radius: 50%;
+    height:45%;
+    margin-top:4%;
+    margin-left:15%;
+}
+#trendyj{
+    border-radius: 50%;
+    height:45%;
+    margin-top:4%;
+    margin-left:13%;
+}
+.trenddetails{
+    width:68%;
+    color:white;
+    background-color: 9C9EFE;
+    position: relative;
+    left:16%;
+    top:60px;
+    padding:20px;
+    padding-top: 30px;
+    border:solid;
+    border-color: white;
+    border-radius: 10px;
+    font-family: sans-serif;
+    margin-right:0;
+   
+}
+.icon{
+
+    margin-left:700px;
+}
